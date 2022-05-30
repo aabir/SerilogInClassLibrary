@@ -1,0 +1,2 @@
+2022-05-30 18:16:30.554 +08:00 [INF] Serilog from button click
+2022-05-30 18:16:45.937 +08:00 [INF] Serilog from button click

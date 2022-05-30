@@ -1,0 +1,12 @@
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\bin\Debug\net6.0\SeriLogClassLibrary.deps.json
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\bin\Debug\net6.0\SeriLogClassLibrary.dll
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\bin\Debug\net6.0\SeriLogClassLibrary.pdb
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.csproj.AssemblyReference.cache
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.AssemblyInfoInputs.cache
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.AssemblyInfo.cs
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.csproj.CoreCompileInputs.cache
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.dll
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\refint\SeriLogClassLibrary.dll
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\SeriLogClassLibrary.pdb
+D:\exp\Practice\WinFormsWithSeriLog\SeriLogClassLibrary\obj\Debug\net6.0\ref\SeriLogClassLibrary.dll
